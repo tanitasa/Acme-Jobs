@@ -28,4 +28,6 @@ The following tools and components are required:
 
 The contributors of this project are:
 
-- Carlos Lozano Toré (carloztor@alum.us.es)
+- Tania Salguero Alvarez (tansalalv@alum.us.es)
+- Carlos Lozano Tore (carloztor@alum.us.es)
+- Victor Rosado Bornes (vicrosbor@alum.us.es)
