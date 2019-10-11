@@ -29,3 +29,4 @@ The following tools and components are required:
 The contributors of this project are:
 
 Tania Salguero Alvarez (tansalalv@alum.us.es)
+Victor Rosado Bornes (vicrosbor@alum.us.es)
