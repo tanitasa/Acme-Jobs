@@ -27,3 +27,10 @@ The following tools and components are required:
 	- Lombok 1.18.8
 
 
+<<<<<<< Updated upstream
+=======
+- Tania Salguero Alvarez (tansalalv@alum.us.es)
+- Carlos Lozano Tore (carloztor@alum.us.es)
+- Victor Rosado Bornes (vicrosbor@alum.us.es)
+- Damian Serrano Fernandez (damserfer@alum.us.es)
+>>>>>>> Stashed changes
