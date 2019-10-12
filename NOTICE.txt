@@ -32,5 +32,4 @@ The contributors of this project are:
 - Carlos Lozano Tore (carloztor@alum.us.es)
 - Victor Rosado Bornes (vicrosbor@alum.us.es)
 - Damian Serrano Fernandez (damserfer@alum.us.es)
-
-Gonzalo López Heredia (gonlopher@alum.us.es)
+- Gonzalo López Heredia (gonlopher@alum.us.es)
